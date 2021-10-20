@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/RuolinZheng08/codepath-ios-university/blob/master/unit5-pastagram/pastagram-demo.gif" width=250># Pastagram
+<img src="https://github.com/tanmay-kali/Pastagram/blob/main/pastagram-demo.gif" width=250># Pastagram
